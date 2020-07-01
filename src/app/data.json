@@ -1,0 +1,162 @@
+{
+	"2020-5-1": {
+		"icus_total_order": 0,
+		"agent_total_order": 0
+},
+	"2020-5-2": {
+		"icus_total_order": 0,
+		"agent_total_order": 0
+	},
+	"2020-5-3": {
+		"icus_total_order": 0,
+		"agent_total_order": 0
+	},
+	"2020-5-4": {
+		"icus_total_order": 0,
+		"agent_total_order": 0
+	},
+	"2020-5-5": {
+		"icus_total_order": 0,
+		"agent_total_order": 0
+	},
+	"2020-5-6": {
+		"icus_total_order": 0,
+		"agent_total_order": 8062583.68
+	},
+	"2020-5-7": {
+		"icus_total_order": 0,
+		"agent_total_order": 10214544.38
+	},
+	"2020-5-8": {
+		"icus_total_order": 0,
+		"agent_total_order": 10143697.20
+	},
+	"2020-5-9": {
+		"icus_total_order": 0,
+		"agent_total_order": 10058542.21
+	},
+	"2020-5-10": {
+		"icus_total_order": 0,
+		"agent_total_order": 8983297.96
+	},
+	"2020-5-11": {
+		"icus_total_order": 0,
+		"agent_total_order": 9432956.45
+	},
+	"2020-5-12": {
+		"icus_total_order": 0,
+		"agent_total_order": 8141451.55
+	},
+	"2020-5-13": {
+		"icus_total_order": 0,
+		"agent_total_order": 8076137.60
+	},
+	"2020-5-14": {
+		"icus_total_order": 0,
+		"agent_total_order": 8160281.72
+	},
+	"2020-5-15": {
+		"icus_total_order": 0,
+		"agent_total_order": 8246696.19
+	},
+	"2020-5-16": {
+		"icus_total_order": 0,
+		"agent_total_order": 8250784.10
+	},
+	"2020-5-17": {
+		"icus_total_order": 0,
+		"agent_total_order": 8244237.79
+	},
+	"2020-5-18": {
+		"icus_total_order": 0,
+		"agent_total_order": 7902923.44
+	},
+	"2020-5-19": {
+		"icus_total_order": 0,
+		"agent_total_order": 7819485.67
+	},
+	"2020-5-20": {
+		"icus_total_order": 0,
+		"agent_total_order": 7954821.45
+	},
+	"2020-5-21": {
+		"icus_total_order": 0,
+		"agent_total_order": 8003501.51
+	},
+	"2020-5-22": {
+		"icus_total_order": 0,
+		"agent_total_order": 8053636.37
+	},
+	"2020-5-23": {
+		"icus_total_order": 0,
+		"agent_total_order": 8139656.32
+	},
+	"2020-5-24": {
+		"icus_total_order": 0,
+		"agent_total_order": 8450119.60
+	},
+	"2020-5-25": {
+		"icus_total_order": 0,
+		"agent_total_order": 8067724.42
+	},
+	"2020-5-26": {
+		"icus_total_order": 0,
+		"agent_total_order": 7923464.46
+	},
+	"2020-5-27": {
+		"icus_total_order": 0,
+		"agent_total_order": 8051268.82
+	},
+	"2020-5-28": {
+		"icus_total_order": 0,
+		"agent_total_order": 8156639.92
+	},
+	"2020-5-29": {
+		"icus_total_order": 0,
+		"agent_total_order": 8079671.44
+	},
+	"2020-5-30": {
+		"icus_total_order": 0,
+		"agent_total_order": 8079103.88
+	},
+	"2020-5-31": {
+		"icus_total_order": 0,
+		"agent_total_order": 8285440.41
+	},
+	"grand_total": "218982668.54",
+	"total_icustomer_total": 0,
+	"total_agent_total": 218982668.54,
+	"date_list": ["2020-5-1",
+		"2020-5-2",
+		"2020-5-3",
+		"2020-5-4",
+		"2020-5-5",
+		"2020-5-6",
+		"2020-5-7",
+		"2020-5-8",
+		"2020-5-9",
+		"2020-5-10",
+		"2020-5-11",
+		"2020-5-12",
+		"2020-5-13",
+		"2020-5-14",
+		"2020-5-15",
+		"2020-5-16",
+		"2020-5-17",
+		"2020-5-18",
+		"2020-5-19",
+		"2020-5-20",
+		"2020-5-21",
+		"2020-5-22",
+		"2020-5-23",
+		"2020-5-24",
+		"2020-5-25",
+		"2020-5-26",
+		"2020-5-27",
+		"2020-5-28",
+		"2020-5-29",
+		"2020-5-30",
+		"2020-5-31"
+	]
+	
+}
